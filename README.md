@@ -1,6 +1,6 @@
 ## RabbitMQ消息可靠性投递解决方案
 
-* 在 https://www.imooc.com/article/49814 的基础上自己小小修改了一下。
+* 在 [RabbitMQ消息可靠性投递解决方案 - 基于SpringBoot实现](https://www.imooc.com/article/49814) 的基础上自己小小修改了一下。
 
 
 
