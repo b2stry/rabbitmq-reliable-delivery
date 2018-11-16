@@ -1,7 +1,12 @@
 ## RabbitMQ消息可靠性投递解决方案
-在 https://www.imooc.com/article/49814 的基础上自己小小修改了一下。
+
+* 在 https://www.imooc.com/article/49814 的基础上自己小小修改了一下。
+
+
 
 ![RabbitMQ消息可靠性投递解决方案](https://img3.mukewang.com/5b65729e0001439305000294.jpg)
+
+
 
 * Step 1： 首先把消息信息(业务数据）存储到数据库中，紧接着，我们再把这个消息记录也存储到一张消息记录表里（或者另外一个同源数据库的消息记录表）
 
