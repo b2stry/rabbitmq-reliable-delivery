@@ -11,7 +11,7 @@ public final class Constants {
     //失败
     public static final String ORDER_SEND_FAILURE = "2";
     //超时单位：min
-    public static final int ORDER_TIMEOUT = 5;
+    public static final int ORDER_TIMEOUT = 1;
     //最大重试次数
     public static final int MAX_RETRY_COUNT = 3;
 }
